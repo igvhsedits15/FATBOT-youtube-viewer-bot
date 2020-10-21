@@ -10,7 +10,7 @@ print '\t\t\t ######################################'
 
 
 
-url = input("Enter YouTube URL : ")
+url = input(https://youtu.be/bjMylPTUVR0: ")
 refresh = input("Enter refresh rate(seconds) : ")
 brow = input("Enter your default browser : ")
 
